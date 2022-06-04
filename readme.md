@@ -1,5 +1,5 @@
 # Description
-A tool to encrypt/decrypt ArcticFox firmware (VandalProof encryption)
+A tool to encrypt/decrypt an ArcticFox firmware (VandalProof encryption)
 
 # Usage
 ```
